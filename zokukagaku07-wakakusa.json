@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/wakakusa",
  "yomi": "わかくさ",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "歌集（漢詩の翻案）",
+  "era": "江戸後期",
+  "author": "千種有功（1797〜1854）",
+  "desc": "『唐詩選』の五言・七言の絶句を一首も落とさず、すべて和歌に詠みかえたもの。序跋は、詩の余韻を三十一文字に移した手腕をたたえる。"
+ },
  "editions": [
   {
    "pid": "993385",
